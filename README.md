@@ -46,3 +46,5 @@ Recall = TP/TP+FN
 F1 Score = 2*(Recall * Precision) / (Recall + Precision)
 
 F1 is usually more useful than accuracy, especially if for an uneven class distribution.
+
+<b> Using liner SVC got an F1 score of 0.7181102362 on test data </b>
